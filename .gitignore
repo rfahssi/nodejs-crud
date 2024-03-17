@@ -1,0 +1,21 @@
+# Dossiers de dépendances
+node_modules/
+vendor/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration d'environnement
+.env
+.env.local
+
+# Dossier de build
+/dist
+
+# Fichiers de logs
+*.log
+
+# Dossiers de l'éditeur
+.idea/
+.vscode/
