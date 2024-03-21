@@ -1,5 +1,5 @@
 # Dossiers de dépendances
-node_modules/
+#node_modules/
 vendor/
 
 # Fichiers système
